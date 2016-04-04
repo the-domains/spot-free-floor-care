@@ -1,0 +1,28 @@
+name: Spot Free Floor Care
+favicon: null
+layout_spectrum: 0.3054716393817216
+typography_spectrum: 0.5735665133688599
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4181069831829518
+  lightness: 0.6104057708289474
+  saturation: 0.5790556885767728
+  rhythmicContrast: 0.26864552148617804
+purpose: []
